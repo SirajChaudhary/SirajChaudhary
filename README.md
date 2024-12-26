@@ -10,7 +10,7 @@
 - 🔭 I love doing POCs on emerging technologies. I do follow best practices, naming conventions and coding standards.
 - 👨‍💻 I'm a specialist in design, develop and deploy java based microservices & dapp (blockchain technologies) on cloud infrastructure.
 - 👨🏻‍🎓 I did **M.E in computer engineering** and OCP, OCA, RHCE, AWS-DA certified.
-- 🧑‍💼 Hire me for Full Stack Development. <a href="http://www.sirajchaudhary.com/#skills">find my technical skills here</a>
+- 🧑‍💼 Hire me for Full Stack Development. You can find my technical skills <a href="http://www.sirajchaudhary.com/#skills">here</a>
 - 💬 Ask me about anything. I am happy to help.
 - 📫 You can reach me via e-mail mr.sirajchaudhary@yahoo.com or phone call (+91)9766870798
 
