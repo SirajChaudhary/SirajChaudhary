@@ -6,8 +6,8 @@
 
 
 - 🌱 I'm a passionate **Learner** | **Programmer**
-- 🔭 I love doing POCs on emerging technologies. I do follow best practices, naming conventions and coding standards.
-- 👨‍💻 I'm a specialist in design, develop and deploy java based microservices & dapp (blockchain technologies) on cloud infrastructure.
+- 👨‍💻 I specialize in designing, developing, and deploying enterprise (Java) applications on cloud infrastructure, following industry best practices, design patterns, principles, naming conventions, and coding standards.
+- 🔭 I also enjoy building POCs on emerging technologies, including Generative AI and Web3.
 - 👨🏻‍🎓 I did **M.E in computer engineering** and OCP, OCA, CED, CSD, RHCE, AWS-DA certified.
 - 🧑‍💼 Hire me for Full Stack Development. You can find my technical skills <a href="http://www.sirajchaudhary.com/#skills">here</a>
 - 💬 Ask me about anything. I am happy to help.
