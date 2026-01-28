@@ -8,7 +8,7 @@
 - 🌱 I'm a passionate **Learner** | **Programmer**
 - 👨‍💻 I specialize in designing, developing, and deploying enterprise-grade Java applications, including Spring Microservices, on AWS cloud infrastructure, leveraging DevOps tools such as Docker, Kubernetes, Jenkins, and Linux while adhering to industry best practices, design patterns, and coding standards.
 - 🔭 I also enjoy building POCs on emerging technologies, including Generative AI and Web3.
-- 👨🏻‍🎓 I did **M.E in computer engineering** and OCP, OCA, CED, CSD, RHCE, AWS-DA certified.
+- 👨🏻‍🎓 I completed my M.E. in Computer Engineering and am OCP, OCA, CED, CSD, RHCE, and AWS-DA certified.
 - 🧑‍💼 Available for Full Stack Development opportunities. View my technical skills <a href="http://www.sirajchaudhary.com/#skills">here</a>.
 - 🤝 Ask me about anything — happy to help.
 - 📧 Reach me at **mr.sirajchaudhary@yahoo.com** | 📞 **+91 9766870798**
